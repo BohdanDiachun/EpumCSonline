@@ -1,0 +1,6 @@
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\bin\Debug\Task5.exe.config
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\bin\Debug\Task5.exe
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\bin\Debug\Task5.pdb
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\obj\Debug\Task5.exe
+D:\Users\admin\source\repos\Epum-week1-introCS\Task5\obj\Debug\Task5.pdb
