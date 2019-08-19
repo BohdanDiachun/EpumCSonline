@@ -1,7 +1,0 @@
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\bin\Debug\Task1.exe.config
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\bin\Debug\Task1.exe
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\bin\Debug\Task1.pdb
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\obj\Debug\Task1.exe
-D:\Users\admin\source\repos\Epum-week1-introCS\Task1\obj\Debug\Task1.pdb
